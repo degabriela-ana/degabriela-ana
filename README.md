@@ -23,7 +23,3 @@ Me estoy preparando para desarrollar investigaciones y proyectos como:
 
 ---
 
-## 📂 Mis Trabajos y Tareas Universitarias
-
-* [Tarea 1: ]
-* [Tarea 2: ]

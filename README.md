@@ -1,25 +1,38 @@
-# ¡Hola! Soy Ana 👋
 
-> [!TIP]
-> ¡Bienvenidos a mi espacio de desarrollo! 
-> Soy estudiante de **Computación Científica** de la universidad UNMSM, actualmente enfocada en fortalecer mi lógica de programación y aprender nuevas tecnologías. Tengo interés en cómo la computación y la Inteligencia Artificial pueden aportar soluciones a la sociedad.
+<img width="736" height="414" alt="image" src="https://github.com/user-attachments/assets/174bd0f4-5279-4db3-a804-5f4f4dcf24bb" />
 
-## Mis áreas de interés
-* 🟢 **Algoritmia y Estructuras de Datos:** Creación de bases sólidas en programación.
-* 🔵 **Ciberseguridad:** Con especial interés en la seguridad de aplicaciones móviles.
-* 🟣 **Tecnología con propósito:** Aplicación del software y la IA en sectores como la medicina, negocios y medio ambiente.
+
+
+# ¡Hi! I am Ana 👋
 
 ---
 
-## Metas y Proyectos
-Me estoy preparando para desarrollar investigaciones y proyectos como:
-* 🛡️ Sistemas de Detección de Malware mediante Machine Learning.
-* 📱 Seguridad de Aplicaciones Móviles.
+
+## ⏳ Estoy aprendiendo:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Julia](https://img.shields.io/badge/julia-%23333333.svg?style=for-the-badge&logo=julia&logoColor=white)
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
 
 ---
 
-## 💻 Tecnologías que estoy aprendiendo
-`C++` | `Julia` | `Python` | `Java` | `PSeInt` | `Google Colab`
+
+## 🎀 Sobre Mí:
+
+💻 Soy estudiante de Computacion (UNMSM)
+👨‍💻 Interesada en la de programación, IA, nuevas tecnologías y cómo aplicar la ciencia a problemas reales.  
+🌱 Me gusta la jardinería y encontrar soluciones prácticas para el medio ambiente.  
+🐱 Amante de los gatitos y de aprender cosas nuevas cada día.  
+✨ Uso este espacio para compartir proyectos, ideas y un poco de mi mundo personal.  
+
 
 ---
 
+
+## ❤️ my social media
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ana.de.gabriela)

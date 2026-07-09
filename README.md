@@ -22,10 +22,9 @@
 
 
 ## 🎀 Sobre Mí:
-
+Mi nombre es Ana de Gabriela Mamani Zela
 💻 Soy estudiante de Computacion (UNMSM)
-👨‍💻 Interesada en la de programación, IA, nuevas tecnologías y cómo aplicar la ciencia a problemas reales.  
-🌱 Me gusta la jardinería y encontrar soluciones prácticas para el medio ambiente.  
+👨‍💻 Interesada en la de programación, IA, nuevas tecnologías y cómo aplicar la ciencia a problemas reales.   
 🐱 Amante de los gatitos y de aprender cosas nuevas cada día.  
 ✨ Uso este espacio para compartir proyectos, ideas y un poco de mi mundo personal.  
 
@@ -33,6 +32,4 @@
 ---
 
 
-## ❤️ my social media
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ana.de.gabriela)

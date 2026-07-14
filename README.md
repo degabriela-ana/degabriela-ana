@@ -29,6 +29,11 @@ Mi nombre es Ana de Gabriela Mamani Zela
 ✨ Uso este espacio para compartir proyectos, ideas y un poco de mi mundo personal.  
 
 
+
+- 🌐 Mi página web: [datavives](https://datavives.wordpress.com)
+
+
+
 ---
 
 
